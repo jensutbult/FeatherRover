@@ -1,6 +1,7 @@
 # FeatherRover
 A tiny tracked rover using the Adafruit Feather board
 
+![FeatherRover](rover.png)
 
 ## BOM:
 https://www.aliexpress.com/item/N20-mini-DC-gear-motor-encoder-gear-motor-GA12-N20-gear-motor-smart-car/32844802758.html
